@@ -1,12 +1,12 @@
 {
   "name": "@luanki/tools",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "es/index.js",
   "scripts": {
     "build": "rimraf dist && rollup -c"
   },
-  "browser": "dist/index.js",
+  "browser": "es/index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
